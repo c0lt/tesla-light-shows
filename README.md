@@ -4,6 +4,8 @@ This repository contains my Tesla Light Shows.
 
 [Support my work](https://www.paypal.com/paypalme/floriandagefoerde)
 
+[Running a show on your Tesla](https://github.com/teslamotors/light-show#running-a-custom-show-on-a-vehicle)
+
 ## AC/DC - Hells Bells
 Music: [AC/DC - Hells Bells](https://music.youtube.com/watch?v=GL56LY6fE0E) (1m20s)
 
